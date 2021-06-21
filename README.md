@@ -1,9 +1,3 @@
-# kubernetes
+# introduction
 
-# Folders organization
-
-# Comments
-
-# License
-
-# Last update: 2020.08.26
+this file is containing all modifications concerning this repository.

@@ -17,4 +17,4 @@ the current status for this repository is:
 
 Check the license file: [LICENSE](https://github.com/ropy1971/kubernetes/blob/master/LICENSE)
 
-## last update: 2021.06.25
+## last updates: 2021.06.25

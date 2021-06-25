@@ -5,14 +5,16 @@
 
 ## status
 
-[PUBLIC]
+the current status for this repository is:
 
-## folders organization
+- [PUBLIC]
+
+## content
 
 ## comments
 
 ## license
 
-Check the license file.
+Check the license file: [LICENSE](https://github.com/ropy1971/kubernetes/blob/master/LICENSE)
 
-## last update: 2021.06.22
+## last update: 2021.06.25
